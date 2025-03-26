@@ -147,19 +147,19 @@ ol {
 /* button*/
 
 .section-btn {
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/people-office\ 1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
   margin: 0 auto;
   max-width: 1440px;
   background-color: #2e2f42;
   padding: 188px 0px;
-  background-image: linear-gradient(
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
-    url(../images/people-office\ 1.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .div-conteiner-btn {
@@ -249,11 +249,8 @@ ol {
   height: 112px;
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
+  border-radius: 4px;
   background-color: #f4f4fd;
-}
-.icon-antenna {
-  width: 64px;
-  height: 64px;
 }
 
 .benefits-subtitle {
