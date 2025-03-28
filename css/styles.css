@@ -328,10 +328,9 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  padding: 0 0 8px 0;
 }
-.div-soc {
-  padding: 8px 0;
-}
+
 .soc-list {
   display: flex;
   justify-content: center;
@@ -497,9 +496,7 @@ ol {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.soc-footer{
 
-}
 .soc-footer-p{
   font-weight: 500;
   font-size: 16px;
