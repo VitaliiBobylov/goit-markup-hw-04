@@ -329,7 +329,9 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.div-soc {
+  padding: 8px 0;
+}
 .soc-list {
   display: flex;
   justify-content: center;
@@ -348,7 +350,15 @@ ol {
   align-items: center;
   justify-content: center;
 }
-
+.icon-svg {
+  fill: #f4f4fd;
+}
+.soc-link:hover {
+  background-color: #404bbf;
+}
+.soc-link:focus {
+  background-color: #404bbf;
+}
 /*portrfolio*/
 .portfolio {
   padding: 120px 0px;
