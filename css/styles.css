@@ -526,6 +526,11 @@ ol {
 .soc-footer-item-href:focus {
   background-color: #31d0aa;
 }
+
+.soc-footer-item-href:hover {
+  background-color: #31d0aa;
+}
+
 .icon-footer {
   fill: #f4f4fd;
 }
